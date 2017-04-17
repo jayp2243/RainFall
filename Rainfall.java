@@ -3,7 +3,7 @@
 import java.util.Scanner;
 import java.text.DecimalFormat;
 
-public class RainfallAmounts {
+public class Rainfall {
 
 public static void main(String[] args) {
 	//See instructions above.
